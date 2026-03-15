@@ -1,1 +1,2 @@
-# test1
+# ping-pong
+socket + pygame = multiplayer
